@@ -1,4 +1,4 @@
-# Lesson Title
+# Liz First Lab
 
 ## Learning Goals
 
